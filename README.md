@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 I attend the University of Waterloo for Engineering<br>👨‍💻 I'm currently working on full stack web dev and app dev<br>🦾 I'm interested in Machine/Deep Learning and Artificial Intelligence Processes<br>🌵 Currently I'm learning Python ML/AI and the Flutter framework<br>📫 Connected with me at https://www.linkedin.com/in/bilon/ or aidan.bilon@uwaterloo.ca<br>💡 Check out my Website Portfolio https://bilon.netlify.app/
 
 
