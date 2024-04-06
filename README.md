@@ -1,5 +1,5 @@
 # About Me:
-🎓 I attend the University of Waterloo for Engineering<br>🦾 I'm interested in Embedded Systems, Machine/Deep Learning and Artificial Intelligence Processes<br>🌵 Currently I'm learning Python ML/AI and the Embedded systems<br>📫 Connected with me at https://www.linkedin.com/in/bilon/ or aidan.bilon@uwaterloo.ca<br>💡 Check out my Website Portfolio https://bilon.netlify.app/
+🎓 I attend the University of Waterloo for Engineering<br>🦾 I'm interested in Embedded Systems, Machine/Deep Learning and Artificial Intelligence Processes<br>🌵 Currently I'm learning Python, ML/AI, and Embedded systems<br>📫 Connected with me at https://www.linkedin.com/in/bilon/ or aidan.bilon@uwaterloo.ca<br>💡 Check out my Website Portfolio https://bilon.netlify.app/
 
 
 ## 🌐 Socials:
