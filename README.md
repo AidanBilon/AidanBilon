@@ -29,6 +29,19 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=YOLO&logoColor=white)
 
+## 👔 Experience
+
+### Internships
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGRp2aQMxV59g/company-logo_200_200/company-logo_200_200/0/1655119691262/pwo_de_mxico_sa_de_cv_logo?e=2147483647&v=beta&t=QdBAa5FYMmUcRlYfMDGDp3VPB76oPdgj4HLn1bCMRyw" alt="PWO" width="28" height="28"> ![PWO](https://img.shields.io/badge/Machine_Learning_Engineering_Intern-%23e98201?style=for-the-badge)
+
+<img src="https://pbs.twimg.com/profile_images/1675851986355343363/Vr7i59nJ_400x400.jpg" alt="WSP" width="28" height="28"> ![WSP](https://img.shields.io/badge/Electrical_Engineering_Intern-%23f9423a?style=for-the-badge)
+
+<img src="https://media.licdn.com/dms/image/v2/D4E0BAQFmHLFQa86TeQ/company-logo_200_200/company-logo_200_200/0/1712361559830/upside_robotics_logo?e=2147483647&v=beta&t=m5t8lFWB9f78jGf6gynRwkKcJEGh9_kunUYtYiTo6ys" alt="UPSIDE" width="28" height="28">  ![Upside](https://img.shields.io/badge/Autonomous_Robotics_Engineering_Intern-%23c5f53f?style=for-the-badge)
+
+### Research
+<img src="https://media.licdn.com/dms/image/v2/C560BAQEW_2Nc4PvfZA/company-logo_100_100/company-logo_100_100/0/1630583725282/faculty_of_engineering_logo?e=2147483647&v=beta&t=YG0GEJZAtJt4kAXOg6kZABT6v6D7DWmoSFG9u2_e6lU" alt="RESL" width="28" height="28">  ![RESL](https://img.shields.io/badge/Real_Time_Embedded_Systems_Lab-%238100b3?style=for-the-badge)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AidanBilon&theme=react&hide_border=false)
