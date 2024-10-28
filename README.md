@@ -12,7 +12,6 @@
 ![Java](https://img.shields.io/badge/java-%23F7DF1E.svg?style=for-the-badge&logo=coffeescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ROS2](https://img.shields.io/badge/ROS-%2322314E?style=for-the-badge&logo=ros&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900E?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🛠️ Hardware:
@@ -28,6 +27,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=YOLO&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%2376B900E?style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 ## 👔 Experience
 
@@ -46,6 +46,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AidanBilon&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AidanBilon&icon=0&color=0)](https://visitcount.itsvg.in)
