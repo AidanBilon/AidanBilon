@@ -46,3 +46,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AidanBilon&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
