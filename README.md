@@ -43,8 +43,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AidanBilon&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanBilon&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AidanBilon&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=tokyonight&show_icons=true)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
