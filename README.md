@@ -43,5 +43,5 @@
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AidanBilon&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AidanBilon&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=tokyonight&show_icons=true)
