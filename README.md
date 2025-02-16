@@ -40,8 +40,3 @@
 
 ### Research
 <img src="https://media.licdn.com/dms/image/v2/C560BAQEW_2Nc4PvfZA/company-logo_100_100/company-logo_100_100/0/1630583725282/faculty_of_engineering_logo?e=2147483647&v=beta&t=YG0GEJZAtJt4kAXOg6kZABT6v6D7DWmoSFG9u2_e6lU" alt="RESL" width="28" height="28">  ![RESL](https://img.shields.io/badge/Real_Time_Embedded_Systems_Lab-%238100b3?style=for-the-badge)
-
-
-# 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AidanBilon&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanBilon&theme=tokyonight&show_icons=true)
