@@ -34,9 +34,11 @@
 
 ### Internships
 
-<img src="https://media.licdn.com/dms/image/v2/D4D0BAQEWA0vTQymyDg/company-logo_200_200/company-logo_200_200/0/1737041889421/daylun_logo?e=2147483647&v=beta&t=RVnwVDGyDapDX2cDBr9NI684CF-GobEImR8A6WHn384" alt="DAYLUN" width="28" height="28">  ![Daylun](https://img.shields.io/badge/Robotics_Systems_Engineering_Intern-%231c74bc?style=for-the-badge)
+<img src="https://img.logo.dev/tesla.com?size=256&token=pk_Ez-J4YOpSS-Bjtug_T41Dw" alt="Tesla" width="28" height="28">  ![Tesla](https://img.shields.io/badge/Software_Test_Engineering_Intern-%23e41937?style=for-the-badge)
 
-<img src="https://media.licdn.com/dms/image/v2/D4E0BAQFmHLFQa86TeQ/company-logo_200_200/company-logo_200_200/0/1712361559830/upside_robotics_logo?e=2147483647&v=beta&t=m5t8lFWB9f78jGf6gynRwkKcJEGh9_kunUYtYiTo6ys" alt="UPSIDE" width="28" height="28">  ![Upside](https://img.shields.io/badge/Autonomous_Robotics_Engineering_Intern-%23c5f53f?style=for-the-badge)
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQEWA0vTQymyDg/company-logo_200_200/company-logo_200_200/0/1737041889421/daylun_logo?e=2147483647&v=beta&t=RVnwVDGyDapDX2cDBr9NI684CF-GobEImR8A6WHn384" alt="DAYLUN" width="28" height="28">  ![Daylun](https://img.shields.io/badge/Software_Systems_Engineering_Intern-%231c74bc?style=for-the-badge)
+
+<img src="https://media.licdn.com/dms/image/v2/D4E0BAQFmHLFQa86TeQ/company-logo_200_200/company-logo_200_200/0/1712361559830/upside_robotics_logo?e=2147483647&v=beta&t=m5t8lFWB9f78jGf6gynRwkKcJEGh9_kunUYtYiTo6ys" alt="UPSIDE" width="28" height="28">  ![Upside](https://img.shields.io/badge/Software_Engineering_Intern-%23c5f53f?style=for-the-badge)
 
 <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGRp2aQMxV59g/company-logo_200_200/company-logo_200_200/0/1655119691262/pwo_de_mxico_sa_de_cv_logo?e=2147483647&v=beta&t=QdBAa5FYMmUcRlYfMDGDp3VPB76oPdgj4HLn1bCMRyw" alt="PWO" width="28" height="28"> ![PWO](https://img.shields.io/badge/Machine_Learning_Engineering_Intern-%23e98201?style=for-the-badge)
 
