@@ -1,6 +1,5 @@
 # About Me:
 🎓 I attend the University of Waterloo for Engineering with a Minor in Artificial Intelligence<br>
-🦾 I'm interested in Robotics and Autonomous Vehicles<br>
 📫 Connected with me at https://www.linkedin.com/in/bilon/ or aidan.bilon@uwaterloo.ca<br>
 💡 Check out my Website Portfolio https://bilon.netlify.app/
 
@@ -33,6 +32,8 @@
 ## 👔 Experience
 
 ### Internships
+
+<img src="https://img.logo.dev/nvidia.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" alt="NVIDIA" width="28" height="28"> ![NVIDIA](https://img.shields.io/badge/Software_Integration_Engineering_Intern-%23e77b800?style=for-the-badge)
 
 <img src="https://img.logo.dev/tesla.com?size=256&token=pk_Ez-J4YOpSS-Bjtug_T41Dw" alt="Tesla" width="28" height="28">  ![Tesla](https://img.shields.io/badge/Software_Test_Engineering_Intern-%23e41937?style=for-the-badge)
 
