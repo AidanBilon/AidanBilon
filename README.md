@@ -33,9 +33,9 @@
 
 ### Internships
 
-<img src="https://img.logo.dev/nvidia.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" alt="NVIDIA" width="28" height="28"> ![NVIDIA](https://img.shields.io/badge/Software_Integration_Engineering_Intern-%23e77b800?style=for-the-badge)
+<img src="https://img.logo.dev/nvidia.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=false&format=png&theme=dark" alt="NVIDIA" width="28" height="28"> ![NVIDIA](https://img.shields.io/badge/Software_Engineering_Intern-%23e77b800?style=for-the-badge)
 
-<img src="https://img.logo.dev/tesla.com?size=256&token=pk_Ez-J4YOpSS-Bjtug_T41Dw" alt="Tesla" width="28" height="28">  ![Tesla](https://img.shields.io/badge/Software_Test_Engineering_Intern-%23e41937?style=for-the-badge)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZJkzWaOKawF1LnbqqRHdzfZ9U2wk93ZLgA&s" alt="Tesla" width="28" height="28">  ![Tesla](https://img.shields.io/badge/Software_Engineering_Intern-%23e41937?style=for-the-badge)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEWA0vTQymyDg/company-logo_200_200/company-logo_200_200/0/1737041889421/daylun_logo?e=2147483647&v=beta&t=RVnwVDGyDapDX2cDBr9NI684CF-GobEImR8A6WHn384" alt="DAYLUN" width="28" height="28">  ![Daylun](https://img.shields.io/badge/Software_Systems_Engineering_Intern-%231c74bc?style=for-the-badge)
 
